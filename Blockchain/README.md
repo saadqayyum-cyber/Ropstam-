@@ -24,5 +24,5 @@ These are the main contracts
 ## 3- NFTContract (NFTContract.sol)
       This is the NFT Contract which have hammer(Fungible) and Open Apes(NFT). There are no decimals added to hammer to make it clear.
       
-
-
+## 4- Deployment
+      Contracts are deployed through remix instead of Hardhat
