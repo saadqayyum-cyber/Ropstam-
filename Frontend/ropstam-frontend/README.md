@@ -16,4 +16,6 @@ contains Contract addresses after deployment and INFURA ID for Wallet
 ## 4- 
 There will be approve transction no matter upcoming transaction accepted or rejected. If you dont have enough ropstam token or you own hammer/openape(ONE) then error will be thrown on second transaction after approve. Approve callStatic was not simulating.
 
+## 5- Errors
+Known errors are handled and shown in alert box. Rest of which are vague can be seen in console
 
