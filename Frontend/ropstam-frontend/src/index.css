@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Clashdisplay";
+  src: local("Clashdisplay"), url(./fonts/ClashDisplay.otf) format("opentype");
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                                        'embedded-opentype', and 'svg' */
+}
+
+body {
+  letter-spacing: 3px;
+}

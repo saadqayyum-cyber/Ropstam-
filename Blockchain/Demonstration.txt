@@ -1,0 +1,1 @@
+No Future Minting after initial mint to make it deflationary
